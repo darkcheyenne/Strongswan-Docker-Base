@@ -9,6 +9,9 @@ This Repository is a Fork from kitten/docker-strongswan (Most Credits to kitten)
 * Changes Base from Debian Jessie to Ubuntu Cosmic
 * Updated Strongswan from 5.5.0 to 5.8.0
 
+Changelog:
+07.01.2023 : Update Strongswan from 5.8.4 -> 5.9.9
+
 ## Usage
 
 Run the following to start the container:
